@@ -1,5 +1,5 @@
 <?php
-/* WarpCache Start
+/* WarpCache Start */
 $url = $_SERVER["SCRIPT_NAME"];
 $break = Explode('/', $url);
 $file = $break[count($break) - 1];
