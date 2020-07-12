@@ -3,7 +3,5 @@ A lightweight, small, effecient php script that makes a php webpage static from 
 # Usage
 Before any other codes, include the **warpcacher-head.php**.
 ```
-<?php
-include "warpcacher-head.php";
-?>
+<?php include "warpcacher-head.php";?>
 ```
