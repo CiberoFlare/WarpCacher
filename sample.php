@@ -1,4 +1,4 @@
-<?php include "sample.php" ?>
+<?php include "warpcacher-start.php" ?>
 <!DOCTYPE html>
  <html>
   <head>
@@ -16,3 +16,5 @@
 ?>
 </body>
  </html>
+
+<?php include "warpcacher-end.php";
