@@ -6,4 +6,4 @@ Before any other codes, include the **warpcacher-head.php**.
 <?php
 include "warpcacher-head.php";
 ?>
-``
+```
