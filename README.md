@@ -14,3 +14,6 @@ After any other codes, include the **warpcacher-end.php**
 | ------ | ------ |
 | warpcacher-start.php | **The Preparer**, which means it prepare the main script by identifying cachetime, to-cache page, etc. |
 | warpcacher-end.php | **The Executer**, which means it 'cached' the page and the one who does the work. |
+
+## How to Know If It Works?
+Observe the refreshed, page's source code. You will see a commented tag and that's it.
