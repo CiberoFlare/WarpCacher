@@ -1,5 +1,8 @@
 # PHP WarpCacher
 A lightweight, small, effecient php script that makes a php webpage static from being a dynamic using cache strategies.
+
+## Requirements
+ - PHP 5 to PHP 7
 ## Usage
 Before any other codes, include the **warpcacher-start.php**.
 ```
