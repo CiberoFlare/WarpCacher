@@ -1,5 +1,5 @@
 # PHP WarpCacher
-A lightweight, small, effecient php script that makes a php webpage static from being a dynamic using cache strategies.
+A lightweight, 1KB size, effecient php script that makes a php webpage static from being a dynamic using cache strategies.
 
 ## Requirements
  - PHP 5 to PHP 7
