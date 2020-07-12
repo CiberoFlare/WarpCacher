@@ -9,8 +9,8 @@ After any other codes, include the **warpcacher-end.php**
 ```
 <?php include "warpcacher-end.php";
 ```
-# Files
+## Files
 | Filename | Uses |
 | ------ | ------ |
-| warpcacher-head.php | [plugins/dropbox/README.md][PlDb] |
+| warpcacher-head.php | **"The Preparer"**, which means it prepare the main script by identifying cachetime, to-cache page, etc. |
 | warpcacher-end.php | [plugins/github/README.md][PlGh] |
