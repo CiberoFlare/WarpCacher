@@ -5,7 +5,7 @@
 <?php
    echo "<title>";
    echo "Sample Cache";
-   echo "</title>"
+   echo "</title>";
 ?>
   </head>
   <body>
