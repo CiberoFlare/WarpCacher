@@ -5,3 +5,7 @@ Before any other codes, include the **warpcacher-head.php**.
 ```
 <?php include "warpcacher-head.php";?>
 ```
+After any other codes, include the **warpcacher-end.php**
+```
+<?php include "warpcacher-end.php";
+```
